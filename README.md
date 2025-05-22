@@ -15,13 +15,13 @@ This project demonstrates how to build an **NLP-based spam classifier** that can
 
 ### 2. **Text Processing**
 
-Step 1:Removal of Apostrophe
-Step 2: Convert all words ino lowercase
-Step 3: Remove Puncuation
-Step 4: Remove stopwords (dont remove ok and not)
-Step 5: Remove single words
-Step 6: Apply lemmatization
-Step 7: Remove numbers
+   Step 1:Removal of Apostrophe
+   Step 2: Convert all words ino lowercase
+   Step 3: Remove Puncuation
+   Step 4: Remove stopwords (dont remove ok and not)
+   Step 5: Remove single words
+   Step 6: Apply lemmatization
+   Step 7: Remove numbers
 
 ### 3. **Feature Engineering**
 
