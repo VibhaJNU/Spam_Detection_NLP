@@ -1,6 +1,3 @@
-Here is a well-structured `README.md` file for your Spam Detection NLP project:
-
----
 
 # 📧 Spam Mail Detection using NLP and Machine Learning
 
